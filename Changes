@@ -1,6 +1,7 @@
 Revision history for Perl extension Devel-Cover-Report-Codecov
 
 {{$NEXT}}
+    - add support for Azure Pipelines
 
 0.25 2019-05-23T05:50:46Z
     - support `tag` query for travis & drone.io
